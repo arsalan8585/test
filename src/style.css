@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+  font-family: "Dana";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../assets/fonts/dana.ttf");
+}
+
+
+
+
+@tailwind utilities;
